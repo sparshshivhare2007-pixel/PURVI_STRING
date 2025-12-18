@@ -3,11 +3,11 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-API_ID = int(getenv("API_ID","21803165"))
-API_HASH = getenv("API_HASH","05e5e695feb30e25bef47484cc006da7")
+API_ID = int(getenv("API_ID","26658182"))
+API_HASH = getenv("API_HASH","d3cdbdb3b81014c71ec60ed03d2b4d8f")
 
 BOT_TOKEN = getenv("BOT_TOKEN")
-OWNER_ID = int(getenv("OWNER_ID","7403621976"))
+OWNER_ID = int(getenv("OWNER_ID","8353151202"))
 
-MONGO_DB_URI = getenv("mongodb+srv://vivek:1234567890@cluster0.c48d8ih.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
-MUST_JOIN = getenv("MUST_JOIN","WORLD_ALPHA")
+MONGO_DB_URI = getenv("mongodb+srv://pusers:nycreation@nycreation.pd4klp1.mongodb.net/?retryWrites=true&w=majority&appName=NYCREATION")
+MUST_JOIN = getenv("MUST_JOIN","destinybots")
