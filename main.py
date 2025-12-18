@@ -27,7 +27,7 @@ app = Client(
 )
 
 if __name__ == "__main__":
-    print("𝙰𝚕𝚙𝚑𝚊 𝚂𝚎𝚜𝚜𝚒𝚘𝚗 𝙶𝚎𝚗 𝚜𝚝𝚊𝚛𝚝𝚒𝚗𝚐...")
+    print("𝙳𝙴𝚂𝚃𝙸𝙽𝚈 𝚂𝚎𝚜𝚜𝚒𝚘𝚗 𝙶𝚎𝚗 𝚜𝚝𝚊𝚛𝚝𝚒𝚗𝚐...")
     try:
         app.start()
     except ApiIdInvalid:
